@@ -1,0 +1,19 @@
+
+table, th, td{
+    background-image: url(ivy/jen-p-FoG8lotg7AA-unsplash.jpg);
+    border: 2px solid;
+    width: 50%;
+    border-collapse: collapse;
+    text-align: center;
+}
+  
+th{
+    height: 30px;
+    background-color: grey;
+    font-size: x-large;
+
+}
+th, td{
+    vertical-align: middle;
+    padding: 12px 12px;
+}
